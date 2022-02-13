@@ -1,1 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
+
+navbar-links:
+  Apresentação: "aboutme"
+  Recursos:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Avaliação: "https://deanattali.com"
