@@ -1,5 +1,12 @@
 remote_theme: daattali/beautiful-jekyll
 
+# Name of website
+title: Matematica Discreta
+
+# Your name to show in the footer
+author: Carlos Florentino
+
+# Navegador
 navbar-links:
   Apresentação: "aboutme"
   Recursos:
