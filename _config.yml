@@ -8,14 +8,14 @@ author: Carlos Florentino
 
 # Navegador
 navbar-links:
-  Aulas: 
+  Aulas T/P :
     - Horário: "horarios"
     - Exercícios: "exercicios"
     - Programa e Bibliografia: "programa"
   Recursos:
     - Vídeos: "https://www.youtube.com/c/Matem%C3%A1ticaDiscretaFCUL"
     - Outras Ligações: "ligacoes"
-  Avaliação: 
+  Avaliação  :
     - Regras de Avaliação: "avaliacao"
     - Testes e Exames: "testes"
 
