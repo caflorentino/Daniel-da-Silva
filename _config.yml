@@ -1,7 +1,7 @@
 remote_theme: daattali/beautiful-jekyll
 
 # Name of website
-title: Matematica Discreta
+title: Matemática Discreta / Finita - FCUL '22
 
 # Your name to show in the footer
 author: Carlos Florentino
@@ -9,7 +9,9 @@ author: Carlos Florentino
 # Navegador
 navbar-links:
   Programa: "programa"
+  Horário: "horarios"
   Recursos:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Avaliação: "https://deanattali.com"
+    - Apontamentos: "teoricas"
+    - Vídeos: "https://www.youtube.com/c/Matem%C3%A1ticaDiscretaFCUL"
+    - Exercícios: "exercicios"
+  Avaliação: "avaliacao"
