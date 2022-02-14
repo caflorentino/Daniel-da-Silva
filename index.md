@@ -1,4 +1,4 @@
-{% include mathjax.html %}
+<!-- {% include mathjax.html %} -->
 
 <p align="center"> Esta é a página das Disciplinas </p>
 
