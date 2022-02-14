@@ -1,3 +1,5 @@
+{% include_relative mathjax.html %}
+
 <h2 align="center"> Programa Resumido </h2>
 <br>
   
