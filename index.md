@@ -1,5 +1,3 @@
-<!-- {% include mathjax.html %} -->
-
 <p align="center"> Esta é a página das Disciplinas </p>
 
 <h2 align="center"> Matemática Discreta (LEI) e </h2>  
