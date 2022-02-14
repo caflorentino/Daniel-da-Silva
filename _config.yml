@@ -15,3 +15,5 @@ navbar-links:
     - Vídeos: "https://www.youtube.com/c/Matem%C3%A1ticaDiscretaFCUL"
     - Exercícios: "exercicios"
   Avaliação: "avaliacao"
+
+markdown: kramdown
