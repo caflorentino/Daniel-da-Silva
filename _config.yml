@@ -9,11 +9,12 @@ author: Carlos Florentino
 # Navegador
 navbar-links:
   Programa: "programa"
-  Horário: "horarios"
+    - Horário: "horarios"
   Recursos:
     - Apontamentos: "teoricas"
     - Vídeos: "https://www.youtube.com/c/Matem%C3%A1ticaDiscretaFCUL"
     - Exercícios: "exercicios"
+    - Outras Ligações: "ligacoes"
   Avaliação: "avaliacao"
 
 markdown: kramdown
