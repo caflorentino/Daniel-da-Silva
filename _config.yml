@@ -8,7 +8,7 @@ author: Carlos Florentino
 
 # Navegador
 navbar-links:
-  Apresentação: "aboutme"
+  Programa: "programa"
   Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
