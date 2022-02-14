@@ -8,7 +8,7 @@
 <h3 align="center"> Bibliografia </h3>
 
 - **Bibliografia Essencial**
-  - C. Florentino, _Fundamentos de Matemática Discreta_, 2021.
+  - C. Florentino, [Fundamentos de Matemática Discreta](FMD-2021.pdf), 2021.
   - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
   - K. Rosen, _Discrete Mathematics and Applications_, 8th Ed., Mc Graw Hill, 2018.
   - O. Byer, D. Smeltzer & K. Wantz, _Journey into Discrete Mathematics_, AMS/MAA Textbooks, 2018.
