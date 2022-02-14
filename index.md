@@ -9,7 +9,7 @@
 Os <span style="color:blue">objectivos</span> desta disciplina são o domínio de <span style="color:blue">conceitos</span>, e <span style="color:blue">resolução de problemas</span>, envolvendo:
 
 - Algoritmo de Euclides (estendido) 
-- Invertibilidade e divisibilidade em 
+- Invertibilidade e divisibilidade em $\mathbb{Z}$ e em $\mathbb{Z}_n$
 - Resolução de equações modulares lineares (incluindo sistemas)
 - Teoremas de Fermat e Euler; a função totiente
 - Criptografia RSA
