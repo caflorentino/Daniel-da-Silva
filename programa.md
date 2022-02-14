@@ -16,7 +16,7 @@
   - O. Byer, D. Smeltzer & K. Wantz, _Journey into Discrete Mathematics_, AMS/MAA Textbooks, 2018.
 
 - **Bibliografia Adicional**
-  - R. Stanley, Enumerative Combinatorics: Volume 1, 2nd Ed. Cambridge U. P., CSAM 49, 2011. 
+  - R. Stanley, Enumerative Combinatorics: Volume 1, 2nd Ed. Cambridge U. P., CSAM 49, 2011. $\frac{1}{x}$
 
 ### Programa Detalhado
 
