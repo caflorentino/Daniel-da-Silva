@@ -1,9 +1,9 @@
 <h2 align="center"> Programa Resumido </h2>
 <br>
   
-1. **Números e Códigos**: O algoritmo de Euclides, divisibilidade. Números primos e teorema fundamental da Aritmética. Equações modulares e congruências; invertibilidade. O pequeno teorema de Fermat; a função totiente de Euler. Criptografia de chave pública - o sistema RSA. 
+1. **Números e Códigos**: O algoritmo de <span style="color:blue">Euclides</span>, divisibilidade. Números primos e teorema fundamental da Aritmética. Equações modulares e <span style="color:blue">congruências</span>; invertibilidade. O pequeno teorema de Fermat; a função totiente de <span style="color:blue">Euler</span>. Criptografia de chave pública - o <span style="color:blue">algoritmo RSA</span>. 
 2. **Funções e Contagens**: Os princípios básicos de contagem; conjuntos, funções e sequências. O Triângulo de Pascal; números binomiais. Princípio de Inclusão-Exclusão; distribuições por caixas. Funções geradoras; Problemas de recorrência linear.
-3. **Grafos e Redes**: Grafos e matrizes. Fórmula de Euler, grafos planares e poliedros; árvores; caminhos e passeios. Grafos dirigidos e o algoritmo PageRank.
+3. **Grafos e Redes**: Grafos e matrizes. Fórmula de Euler, grafos planares e poliedros; árvores; caminhos e passeios. Grafos dirigidos e o algoritmo PageRank. 
 
 <h3 align="center"> Bibliografia </h3>
 
@@ -16,10 +16,6 @@
 - **Bibliografia Adicional**
   - R. Stanley, Enumerative Combinatorics: Volume 1, 2nd Ed. Cambridge U. P., CSAM 49, 2011. 
 
-### Objectivos
-
-Aprendizagem de algoritmos e resolução de problemas elementares envolvendo números inteiros e números modulares, e sua aplicação em criptografia. Estudo de técnicas básicas de contagem, de combinatória enumerativa, e de relações de recorrência lineares, do ponto de vista teórico e computacional. Introdução às relações entre grafos simples, grafos dirigidos e matrizes, e sua aplicação a algoritmos de pesquisa na internet.  <span style="color: red">written in red</span>
-
 ### Programa Detalhado
 
-Consulte aqui o `Programa detalhado` da Disciplina, bem como os [Sumários das aulas teóricas](sumarios.md) 
+Consulte aqui o Programa detalhado da Disciplina, bem como os [Sumários das aulas teóricas](sumarios.md) 
