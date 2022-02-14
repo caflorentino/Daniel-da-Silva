@@ -1,35 +1,23 @@
-You can use the [editor on GitHub](https://github.com/caflorentino/matematica-discreta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center"> Esta é a página das Disciplinas </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 align="center"> Matemática Discreta (LEI) e Matemática Finita (LM) </h2>
 
-### Markdown
+<p align="center"> da FCUL, em 2021/22 </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Os <span style="color:blue">objectivos</span> desta disciplina são o domínio de <span style="color:blue">conceitos</span>, e <span style="color:blue">resolução de problemas</span>, envolvendo:
 
-# Header 1
-## Header 2
-### Header 3
+- Algoritmo de Euclides (estendido)
+- Invertibilidade e divisibilidade em Z e em Z/n
+- Resolução de equações modulares lineares (incluindo sistemas)
+- Teoremas de Fermat e Euler; a função totiente
+- Criptografia RSA
+- Números binomiais e multinomiais
+- Princípios gerais de contagem
+- Funções geradoras e problemas de recorrência linear
+- Problemas de contagem com simetria
+- Grafos e as suas matrizes; grafos e poliedros
+- Algoritmos com árvores e caminhos
+- Grafos dirigidos, redes e algoritmo PageRank
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caflorentino/matematica-discreta/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- Aprendizagem de algoritmos e resolução de problemas elementares envolvendo números inteiros e números modulares, e sua aplicação em criptografia. Estudo de técnicas básicas de contagem, de combinatória enumerativa, e de relações de recorrência lineares, do ponto de vista teórico e computacional. Introdução às relações entre grafos simples, grafos dirigidos e matrizes, e sua aplicação a algoritmos de pesquisa na internet. -->
