@@ -8,19 +8,18 @@ Todos os outros métodos de avaliação são opcionais, e são **fortemente reco
 #### Items de avaliação
 
 - Provas Escritas:
-  - Teste A
+  - Teste A 
   - Teste B
   - Exame 1a Época / 2a Época
 
 - Avaliação contínua:
   - Resolução de [Execícios](exercicios.md)
-  - Quizes no Moodle
 
-#### Fórmula de Cálculo da Nota Final
+#### Fórmula de Cálculo da Nota Final $N_F$
 
 $$
 \begin{eqnarray*}
-N_{F}=\max\left\{ N_{E}+N_{P}\frac{20-N_{E}}{10},\ N_{E}\right\} 
+N_{F}= E + P \frac{20-E}{10} 
 \end{eqnarray*}
 $$
 
@@ -28,9 +27,10 @@ onde $N_E$ é a nota das provas escritas:
 
 $$
 \begin{eqnarray*}
-N_{E}=\max\left\{ \frac{T_A + T_B}{2},\ N_{E1}, \ N_{E2} \right\} 
+E = \max\left\{ T_A + T_B,\ E1, \ E2 \right\} 
 \end{eqnarray*}
 $$
 
-e $N_P$ é a nota das aulas Práticas. As notas intermédias são arredondadas às décimas.
+e $P$ é a nota da avaliação contínua, que reflete a participação e resolução dos exercícios nas aulas práticas, bem como problemas feitos em casa, e indicados pelo professor semanalmente.
+As notas intermédias são arredondadas às décimas.
 
