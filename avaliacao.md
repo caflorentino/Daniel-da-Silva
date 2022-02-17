@@ -24,4 +24,13 @@ N_{F}=\max\left\{ N_{E}+N_{P}\frac{20-N_{E}}{10},\ N_{E}\right\}
 \end{eqnarray*}
 $$
 
-onde ...
+onde $N_E$ é a nota das provas escritas:
+
+$$
+\begin{eqnarray*}
+N_{E}=\max\left\{ \frac12(T_A + T_B),\ N_{E}\right\} 
+\end{eqnarray*}
+$$
+
+e $N_P$ é a nota das aulas Práticas.
+
