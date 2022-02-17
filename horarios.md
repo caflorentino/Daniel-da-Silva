@@ -7,11 +7,11 @@
 ### Aulas Práticas
 
 - Mat. FINITA :
-  - TP21 -- Terça, 10:30 - 12:00 &ensp; e &ensp; Quinta, 9:30 - 11:00
-  - TP22 -- Terça e Sexta, 13:30 - 15:00 
+  - TP21 -- Terça, 10:30 - 12:00 (1.3.15) &ensp; e &ensp; Quinta, 9:30 - 11:00 (1.3.14)
+  - TP22 -- Terça, 13:30 - 15:00 (6.2.48) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.47)
 
 - Mat. DISCRETA :
-  - TP21 -- Segunda, 14:00 - 15:30 &ensp; e &ensp; Quinta, 17:30 - 19:00 
-  - TP22 -- Segunda, 16:30 - 18:00 &ensp; e &ensp; Quinta, 13:30 - 15:00
-  - TP23 -- Terça e Sexta, 13:30 - 15:00
-  - TP24 e TP25 -- Terça e Sexta, 13:30 - 15:00
+  - TP21 -- Segunda, 14:00 - 15:30 (1.3.33A) &ensp; e &ensp; Quinta, 17:30 - 19:00 (1.3.20) 
+  - TP22 -- Segunda, 16:30 - 18:00 (6.2.50) &ensp; e &ensp; Quinta, 13:30 - 15:00 (6.2.52)
+  - TP23 -- Terça, 13:30 - 15:00 (3.1.10) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.46)
+  - TP24 e TP25 -- Terça, 13:30 - 15:00 (6.2.48) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.47)
