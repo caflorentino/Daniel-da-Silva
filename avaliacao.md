@@ -28,7 +28,7 @@ onde $N_E$ é a nota das provas escritas:
 
 $$
 \begin{eqnarray*}
-N_{E}=\max\left\{ \frac12(T_A + T_B),\ N_{E}\right\} 
+N_{E}=\max\left\{ \frac{T_A + T_B}{2},\ N_{E1}, \ N_{E2} \right\} 
 \end{eqnarray*}
 $$
 
