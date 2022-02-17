@@ -4,7 +4,7 @@
 #### Fichas de Exercícios para as aulas TP
 
 ##### Parte 1: Números
-- Ficha 0
+- [Ficha 0](Problemas0.pdf)
 - Ficha 1
 
 ##### Parte 2: Funções
