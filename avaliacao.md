@@ -16,7 +16,7 @@ Todos os outros métodos de avaliação são opcionais, e são **fortemente reco
   - Resolução de [Execícios](exercicios.md)
   - Quizes no Moodle
 
-#### Fóruma de Cálculo da Nota Final
+#### Fórmula de Cálculo da Nota Final
 
 $$
 \begin{eqnarray*}
@@ -32,5 +32,5 @@ N_{E}=\max\left\{ \frac{T_A + T_B}{2},\ N_{E1}, \ N_{E2} \right\}
 \end{eqnarray*}
 $$
 
-e $N_P$ é a nota das aulas Práticas.
+e $N_P$ é a nota das aulas Práticas. As notas intermédias são arredondadas às décimas.
 
