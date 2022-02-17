@@ -19,5 +19,9 @@ Todos os outros métodos de avaliação são opcionais, e são **fortemente reco
 #### Fóruma de Cálculo da Nota Final
 
 $$
+\begin{eqnarray*}
 N_{F}=\max\left\{ N_{E}+N_{P}\frac{20-N_{E}}{10},\ N_{E}\right\} 
+\end{eqnarray*}
 $$
+
+onde ...
