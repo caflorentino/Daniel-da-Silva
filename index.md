@@ -2,13 +2,14 @@
 
 <p align="center"> Esta é a página das Disciplinas </p>
 
-<h2 align="center"> Matemática Discreta (LEI) e </h2>  
-<h2 align="center"> Matemática Finita (LM) </h2>
+<h2 align="center"> Matemática Discreta (LEI)
+<p> e </p>
+Matemática Finita (LM) </h2>
 
 <p align="center"> da FCUL, em 2021/22 </p>
 
 
-Os <span style="color:blue">objectivos</span> desta disciplina são o domínio de <span style="color:blue">conceitos</span>, e <span style="color:blue">resolução de problemas</span>, envolvendo:
+Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domínio de <span style="color:#0085A1">conceitos</span>, e <span style="color:#0085A1">resolução de problemas</span>, envolvendo:
 
 - Algoritmo de Euclides (estendido) 
 - Invertibilidade e divisibilidade em $\mathbb{Z}$ e em $\mathbb{Z}_n$
