@@ -4,8 +4,8 @@
 <br>
   
 1. <span style="color:#0085A1">**Números e Códigos**</span>: O algoritmo de <span style="color:blue">Euclides</span>, divisibilidade. Números primos e teorema fundamental da Aritmética. Equações modulares e <span style="color:blue">congruências</span>; invertibilidade. O pequeno teorema de Fermat; a função totiente de <span style="color:blue">Euler</span>. Criptografia de chave pública - o <span style="color:blue">algoritmo RSA</span>. 
-2. <span style="color:#0085A1">**Funções e Contagens**</span>: Os princípios básicos de contagem; conjuntos, funções e sequências. O Triângulo de Pascal; números binomiais. Princípio de Inclusão-Exclusão; distribuições por caixas. Funções geradoras; Problemas de recorrência linear.
-3. <span style="color:#0085A1">**Grafos e Redes**</span>: Grafos e matrizes. Fórmula de Euler, grafos planares e poliedros; árvores; caminhos e passeios. Grafos dirigidos e o algoritmo PageRank. 
+2. <span style="color:#0085A1">**Funções e Contagens**</span>: Os princípios básicos de contagem; conjuntos, funções e <span style="color:blue">sequências</span>. O Triângulo de <span style="color:blue">Pascal</span>; números multinomiais. Princípio de <span style="color:blue">Inclusão-Exclusão</span>; distribuições por caixas. Funções <span style="color:blue">geradoras</span>; Problemas de <span style="color:blue">recorrência linear</span>.
+3. <span style="color:#0085A1">**Grafos e Redes**</span>: <span style="color:blue">Grafos e matrizes</span>. Fórmula de Euler, grafos planares e poliedros; árvores; <span style="color:blue">caminhos e passeios</span>. Grafos dirigidos e o algoritmo <span style="color:blue">PageRank</span>. 
 
 <h3 align="center"> Bibliografia </h3>
 
@@ -20,4 +20,4 @@
 
 ### Programa Detalhado
 
-Consulte aqui o Programa detalhado da Disciplina, bem como os [Sumários das aulas teóricas](sumarios.md) 
+Consulte aqui o [Programa detalhado da Disciplina](sumarios.md) 
