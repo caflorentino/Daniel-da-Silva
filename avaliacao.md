@@ -23,14 +23,16 @@ N_{F}= E + P \frac{20-E}{10}
 \end{eqnarray*}
 $$
 
-onde $N_E$ é a nota das provas escritas:
+onde $E \in [0, 20]$ é a nota das provas escritas:
 
 $$
 \begin{eqnarray*}
-E = \max\left\{ T_A + T_B,\ E1, \ E2 \right\} 
+E = \max\left\{ TA + TB,\ E1, \ E2 \right\} 
 \end{eqnarray*}
 $$
 
-e $P$ é a nota da avaliação contínua, que reflete a participação e resolução dos exercícios nas aulas práticas, bem como problemas feitos em casa, e indicados pelo professor semanalmente.
-As notas intermédias são arredondadas às décimas.
+sendo TA e TB, as notas de cada teste (entre 0 e 10), e $P \in [-0.5 , 2]$ é a nota da avaliação contínua, que reflete a participação e resolução dos exercícios nas aulas práticas, bem como problemas feitos em casa, e indicados pelo professor semanalmente.
 
+**Nota mínima:** Para os alunos cuja avaliação use a nota dos Testes a nota mínima para passagem é 3.5 em cada Teste (TA e TB). 
+
+As notas intermédias são arredondadas às décimas.
