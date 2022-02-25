@@ -5,7 +5,7 @@
 
 #### Parte 1: Números
 - [Ficha 0](Problemas0.pdf)
-- Ficha 1
+- [Ficha 1](Problemas1.pdf)
 
 #### Parte 2: Funções
 
