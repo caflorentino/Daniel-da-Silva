@@ -15,3 +15,7 @@
   - TP22 -- Segunda, 16:30 - 18:00 (6.2.50) &ensp; e &ensp; Quinta, 13:30 - 15:00 (6.2.52)
   - TP23 -- Terça, 13:30 - 15:00 (3.1.10) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.46)
   - TP24 e TP25 -- Terça, 13:30 - 15:00 (6.2.48) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.47)
+
+### Horários de Atendimento
+
+Consulte a [página do Moodle](https://moodle.ciencias.ulisboa.pt/course/view.php?id=3777) (acesso FCUL)
