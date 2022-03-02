@@ -7,13 +7,10 @@
 - [Ficha 0](Problemas0.pdf)
 - [Ficha 1](Problemas1.pdf)
 
-#### Parte 2: Funções
+### Exercícios Resolvidos / com Soluções
+- [Resolvidos 1](ProbRes1.pdf)
 
-#### Parte 3: Grafos
-
-### Exercícios Complementares
-
-### Exercícios com Soluções
+### Exercícios Adicionais 
 
 ### Resumos da Matéria
 - [Slides da 1a parte](ITN.pdf)
