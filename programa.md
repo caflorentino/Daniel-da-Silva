@@ -10,7 +10,7 @@
 <h3 align="center"> Bibliografia </h3>
 
 - <span style="color:#0085A1">**Bibliografia Essencial**</span>
-  - C. Florentino, [Fundamentos de Matemática Discreta](FMD-2021.pdf), 2021.
+  - C. Florentino, [Fundamentos de Matemática Discreta](FMD-2022.pdf), 2021.
   - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
