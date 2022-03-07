@@ -11,6 +11,7 @@
 
 - <span style="color:#0085A1">**Bibliografia Essencial**</span>
   - C. Florentino, [Fundamentos de Matemática Discreta](FMD-2022.pdf), 2021.
+  - E. Lehman, F. T. Leighton and A. R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), 2018.
   - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
