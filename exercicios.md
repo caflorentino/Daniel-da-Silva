@@ -6,6 +6,7 @@
 #### Parte 1: Números
 - [Ficha 0](Problemas0.pdf)
 - [Ficha 1](Problemas1.pdf)
+- [Ficha 2](Problemas2.pdf)
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](ProbRes1.pdf)
