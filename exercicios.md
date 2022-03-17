@@ -11,7 +11,6 @@
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](ProbRes1.pdf)
-- [Resolvidos 2](ProbRes2.pdf)
 
 ### Exercícios Adicionais 
 
