@@ -28,7 +28,7 @@ markdown: kramdown
 navbar-col: "#14121C"
 navbar-text-col: "#C0C0C0"
 navbar-border-col: "#FFAC6C"
-page-col: "#64698D"
+page-col: "#505F6B"
 text-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
