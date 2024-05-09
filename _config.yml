@@ -9,7 +9,7 @@ author: CEMS.UL - Faculdade de Ciências, ULisboa
 # Navegador
 navbar-links:
   Daniel da Silva:
-    - História: "horarios"
+    - Biografia: "biografia"
     - Matemática: "exercicios"
     - Ciência: "programa"
   Actividades:
