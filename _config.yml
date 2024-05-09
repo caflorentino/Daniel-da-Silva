@@ -1,10 +1,10 @@
 remote_theme: daattali/beautiful-jekyll
 
 # Name of website
-title: Fundação Daniel da Silva
+title: Apresentação
 
 # Your name to show in the footer
-author: C. Florentino
+author: CEMS.UL - Faculdade de Ciências, ULisboa
 
 # Navegador
 navbar-links:
@@ -36,3 +36,12 @@ footer-col: "#14121C"
 footer-text-col: "#C0C0C0"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
+
+# --- Footer social media links --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "someone@example.com"
+  facebook: daniel-da-silva
+  youtube: c/matematicadiscretaFCUL
