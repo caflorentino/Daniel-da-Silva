@@ -1,12 +1,6 @@
 {% include_relative mathjax.html %}
 
-<p align="center"> Esta é a página das Disciplinas </p>
-
-<h2 align="center"> Matemática Discreta (LEI)
-<p> e </p>
-Matemática Finita (LM) </h2>
-
-<p align="center"> da FCUL, em 2021/22 </p>
+<p align="center"> Bem-vindo ao sítio dedicado a Daniel Augusto da Silva </p>
 
 
 Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domínio de <span style="color:#0085A1">conceitos</span>, e <span style="color:#0085A1">resolução de problemas</span>, envolvendo:
